@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "path": "some/secret",
+      "mapping": {
+        "hostname": "karsei.mysql.userdb.hostname",
+        "port": "karsei.mysql.userdb.port",
+        "user": "karsei.mysql.userdb.username",
+        "password": "karsei.mysql.userdb.password"
+      }
+    }
+  ]
+}
